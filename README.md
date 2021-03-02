@@ -5,6 +5,8 @@
 ![Status](https://img.shields.io/badge/Status-Alive-<brightgreen>)
 ### Description 🗨️
 A simple script to generate md2,md4,md5,sha1,sha256,sha384,sha512 hashes .
+### Alternative:
+You can use my tool called hashpy or 'Hapie' for more encryption algorithms
 ### Disclaimer:
 i am not responsible for your naughty work!
 ### Bug Report:
